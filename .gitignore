@@ -1,0 +1,4 @@
+ttai_venv/
+*.zip
+env
+.cache
